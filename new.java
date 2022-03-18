@@ -2,7 +2,7 @@ class New{
 
 public static void main(String args[])
 {
-System.out.println("Namaste");
+System.out.println("Namastes");
 }
 }
 
